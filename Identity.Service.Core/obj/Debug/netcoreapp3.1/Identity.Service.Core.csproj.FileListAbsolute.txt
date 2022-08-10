@@ -1,0 +1,10 @@
+C:\Development\IdentityService\IdentityService\Identity.Service.Core\bin\Debug\netcoreapp3.1\Identity.Service.Core.deps.json
+C:\Development\IdentityService\IdentityService\Identity.Service.Core\bin\Debug\netcoreapp3.1\Identity.Service.Core.dll
+C:\Development\IdentityService\IdentityService\Identity.Service.Core\bin\Debug\netcoreapp3.1\Identity.Service.Core.pdb
+C:\Development\IdentityService\IdentityService\Identity.Service.Core\obj\Debug\netcoreapp3.1\Identity.Service.Core.csproj.AssemblyReference.cache
+C:\Development\IdentityService\IdentityService\Identity.Service.Core\obj\Debug\netcoreapp3.1\Identity.Service.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\IdentityService\IdentityService\Identity.Service.Core\obj\Debug\netcoreapp3.1\Identity.Service.Core.AssemblyInfoInputs.cache
+C:\Development\IdentityService\IdentityService\Identity.Service.Core\obj\Debug\netcoreapp3.1\Identity.Service.Core.AssemblyInfo.cs
+C:\Development\IdentityService\IdentityService\Identity.Service.Core\obj\Debug\netcoreapp3.1\Identity.Service.Core.csproj.CoreCompileInputs.cache
+C:\Development\IdentityService\IdentityService\Identity.Service.Core\obj\Debug\netcoreapp3.1\Identity.Service.Core.dll
+C:\Development\IdentityService\IdentityService\Identity.Service.Core\obj\Debug\netcoreapp3.1\Identity.Service.Core.pdb

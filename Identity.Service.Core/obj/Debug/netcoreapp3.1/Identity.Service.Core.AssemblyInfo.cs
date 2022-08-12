@@ -11,8 +11,10 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Identity.Service.Core")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("UCN")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyCopyrightAttribute("UCN")]
+[assembly: System.Reflection.AssemblyDescriptionAttribute("Simple identity service, generating and validating JWT and extracting claims.")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Identity.Service.Core")]

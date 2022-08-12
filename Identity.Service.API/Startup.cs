@@ -1,3 +1,4 @@
+using Identity.Service.Core.Middleware;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -46,11 +47,14 @@ namespace Identity.Service.API
         {            
                 app.UseDeveloperExceptionPage();            
             app.UseSwagger();
-            app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "Webshop.Catalog.Api v1"));
+            app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "Identity.Service.Api"));
 
             app.UseHttpsRedirection();
 
             app.UseRouting();
+            //NOTE: the line below enables all requests to be routed through the middleware for checking for a security token
+            //this also applies to the generate and to the validate functions. 
+            //app.UseMiddleware<JWTTokenValidationMiddleware>();
 
             app.UseAuthorization();
 

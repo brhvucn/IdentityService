@@ -96,7 +96,7 @@
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "C:\\Development\\IdentityService\\IdentityService\\Identity.Service.Core\\Identity.Service.Core.csproj",
-        "projectName": "Identity.Service.Core",
+        "projectName": "UCN.Service.Identity",
         "projectPath": "C:\\Development\\IdentityService\\IdentityService\\Identity.Service.Core\\Identity.Service.Core.csproj",
         "packagesPath": "C:\\Users\\brhv\\.nuget\\packages\\",
         "outputPath": "C:\\Development\\IdentityService\\IdentityService\\Identity.Service.Core\\obj\\",
@@ -136,6 +136,10 @@
             "FluentValidation": {
               "target": "Package",
               "version": "[11.2.0, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
             },
             "Microsoft.Extensions.Configuration.Abstractions": {
               "target": "Package",

@@ -110,3 +110,5 @@ C:\Development\IdentityService\IdentityService\Identity.Service.Core.Tests\bin\D
 C:\Development\IdentityService\IdentityService\Identity.Service.Core.Tests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
 C:\Development\IdentityService\IdentityService\Identity.Service.Core.Tests\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
 C:\Development\IdentityService\IdentityService\Identity.Service.Core.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Development\IdentityService\IdentityService\Identity.Service.Core.Tests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Development\IdentityService\IdentityService\Identity.Service.Core.Tests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
